@@ -1,4 +1,4 @@
-hiptactoe
-=========
+Hiptactoe
+====================
 
-A browser-based Tic Tac Toe implementation built with Processing.js and Canvas.
+A browser-based Tic Tac Toe implementation based on Processing.js and Canvas.
